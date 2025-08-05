@@ -36,3 +36,6 @@ This is a command-line chatbot that uses [Google Gemini](https://ai.google.dev/)
 ### 1. Install dependencies
 ```bash
 npm install axios @langchain/google-genai readline
+
+##  Result
+
